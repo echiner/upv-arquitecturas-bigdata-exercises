@@ -18,10 +18,6 @@ Below is the list of modules covered in this course. Click on any module link to
     *   Leveraging cloud environments, managed services, and modern cloud data warehouses/lakehouses.
 *   [**Module 5: Advanced AI Architectures**](./module-5/README.md)
     *   Architectural patterns for scale, MLOps, LLMs, and agentic AI systems.
-*   [**Module 6: Data Governance, Quality, and Security**](./module-6/README.md)
-    *   Ensuring compliance, auditability, data privacy, security controls, and data quality standards.
-*   [**Module 7: Artificial Intelligence (AI) Governance**](./module-7/README.md)
-    *   Ethical frameworks, policy enforcement, safety guidelines, and monitoring in enterprise AI deployments.
 
 ---
 *Created as part of the Enterprise Data & AI Architectures master's program.*
