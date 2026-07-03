@@ -7,24 +7,9 @@ Build and deploy a production-ready, high-performance Retrieval-Augmented Genera
 
 ## 🛠️ System Architecture
 
-The following block diagram outlines the data flows and system layers you will construct:
+The following diagram outlines the data flows and system layers you will construct:
 
-```
-[ PDF Source ] 
-      │
-      ▼  (1. Parser: Marker)
-[ Markdown + Tables ]
-      │
-      ▼  (2. Chunking: Chonkie)
-[ Semantic Chunks ]
-      │
-      ▼  (3. Embeddings: e.g., SentenceTransformers / Cohere / OpenAI)
-[ Chunks + Vectors ] ──(Upsert)──► [ 4. Database: Qdrant (Docker) ]
-                                          ▲
-                                          │ (Query & Retrieve Context)
-                                          ▼
-[ User Query ] ───────────────► [ 5. UI: Chainlit App ] ◄──(Stream Response)──► [ LLM (LiteLLM Gateway) ]
-```
+![Enterprise RAG System Architecture](./images/rag_architecture.png)
 
 ---
 
