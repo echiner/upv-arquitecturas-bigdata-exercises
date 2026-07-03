@@ -69,6 +69,10 @@ For bonus points, implement these production-grade optimizations:
 *   Deploy LiteLLM to serve as a unified OpenAI-compatible API gateway.
 *   Use it to handle load-balancing, fallback models (e.g., fall back to Anthropic Claude if OpenAI GPT fails), and rate-limiting.
 
+### 4. Workflow Orchestration
+*   Automate your data processing pipeline (ingestion, parsing, chunking, and embedding indexing) using a workflow orchestration tool (e.g., Apache Airflow, Prefect, or Dagster).
+*   Create a pipeline DAG that automatically schedules and triggers the extraction and indexing steps when new PDF documents are added to a source directory.
+
 ---
 
 ## 📤 Project Deliverables
@@ -89,6 +93,9 @@ For bonus points, implement these production-grade optimizations:
 *   [Chainlit Documentation](https://docs.chainlit.io/) - Conversational AI user interface library for Python.
 *   [LiteLLM Documentation](https://docs.litellm.ai/) - Unified gateway interface for multiple LLM providers.
 *   [Langfuse Observability Documentation](https://langfuse.com/docs) - Open source LLM engineering platform for tracking prompts and latency.
+*   [Apache Airflow Documentation](https://airflow.apache.org/) - Workflow management and scheduling platform.
+*   [Prefect Documentation](https://docs.prefect.io/) - Workflow orchestration engine.
+*   [Dagster Documentation](https://docs.dagster.io/) - Cloud-native data orchestrator.
 
 ---
 [⬅ Back to Module 5 README](./README.md)
