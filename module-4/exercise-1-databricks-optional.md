@@ -31,5 +31,12 @@ You are required to select **one** of the three defined application paths below 
 2.  **Deliverable 2: Execution Validation**
     *   A short PDF or Markdown report detailing the execution, demonstrating Spark job outputs (e.g., DAG visualization screenshots, streaming rate statistics, or MLflow runs dashboard).
 
+## 📚 References & Further Reading
+*   [Databricks Documentation](https://docs.databricks.com/) - Product documentation for Databricks workspace, clusters, and runtimes.
+*   [Apache Spark PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html) - Programming guide and reference for PySpark.
+*   [Delta Lake Documentation](https://docs.delta.io/latest/index.html) - Documentation for the Delta open storage format.
+*   [MLflow Documentation](https://mlflow.org/docs/latest/index.html) - Guide to tracking machine learning experiments and logging models.
+*   [Delta Live Tables (DLT) Guide](https://docs.databricks.com/en/delta-live-tables/index.html) - Declaring declarative data processing pipelines on Databricks.
+
 ---
 [⬅ Back to Module 4 README](./README.md)

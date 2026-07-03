@@ -82,5 +82,13 @@ For bonus points, implement these production-grade optimizations:
 3.  **Deliverable 3: UI Run Proof**
     *   A short video recording (WebP/MP4) or a set of screenshots showing the Chainlit UI in action, specifically demonstrating how the RAG model answers queries using context extracted from PDF tables.
 
+## 📚 References & Further Reading
+*   [Marker Github Repository](https://github.com/AdeelH/maker) - PDF to markdown converter tool.
+*   [Chonkie Github Repository](https://github.com/bhavinjawade/chonkie) - Lightweight, semantic chunking library for RAG.
+*   [Qdrant Vector Database Documentation](https://qdrant.tech/documentation/) - Official Qdrant vector database documentation.
+*   [Chainlit Documentation](https://docs.chainlit.io/) - Conversational AI user interface library for Python.
+*   [LiteLLM Documentation](https://docs.litellm.ai/) - Unified gateway interface for multiple LLM providers.
+*   [Langfuse Observability Documentation](https://langfuse.com/docs) - Open source LLM engineering platform for tracking prompts and latency.
+
 ---
 [⬅ Back to Module 5 README](./README.md)

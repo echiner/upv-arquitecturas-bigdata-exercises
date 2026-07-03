@@ -55,5 +55,12 @@ In this exercise, you will design high-level architectures for three diverse ent
 *   **Strict Data Privacy (GDPR/HIPAA Compliance)**: Personally Identifiable Information (PII) and medical history must be strictly segregated, heavily encrypted, and masked. Access must be granted based on rigid, role-based permissions (e.g., a researcher can see anonymized trends, but only the primary doctor can see patient names).
 *   **Data Auditability**: The organization requires an automated way to track the complete lifecycle of a data point—from the moment a medical image is uploaded, through how it was used to train or evaluate an AI model, down to who accessed it.
 
+## 📚 References & Further Reading
+*   [Designing Data-Intensive Applications by Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Highly recommended book on data systems architecture.
+*   [Draw.io Documentation](https://www.drawio.com/doc/) - Tool for creating software architecture diagrams.
+*   [Excalidraw Documentation](https://docs.excalidraw.com/) - Tool for sketching hand-drawn diagrams.
+*   [Mermaid.js Documentation](https://mermaid.js.org/intro/) - Text-to-diagram utility.
+*   [Emerging Architectures for Modern Data Stack (a16z)](https://a16z.com/emerging-architectures-for-modern-data-stack/) - Architectural insights for data-centric pipelines.
+
 ---
 [⬅ Back to Module 1 README](./README.md)

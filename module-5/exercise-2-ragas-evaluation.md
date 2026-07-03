@@ -150,5 +150,11 @@ python evaluate_rag.py
 3.  **Deliverable 3: Performance Analysis**
     *   Write a short analysis based on the output scores. If `faithfulness` is low, what changes should you make to your system? If `context_recall` is low, how would you address it?
 
+## 📚 References & Further Reading
+*   [Ragas Documentation](https://docs.ragas.io/) - Official Ragas framework documentation.
+*   [Ragas Key Metrics Guide](https://docs.ragas.io/en/stable/concepts/metrics/index.html) - In-depth breakdown of evaluation metrics.
+*   [Hugging Face Datasets Documentation](https://huggingface.co/docs/datasets/index) - Guide for creating and preparing datasets.
+*   [Pandas Documentation](https://pandas.pydata.org/docs/) - Data manipulation and analysis library in Python.
+
 ---
 [⬅ Back to Module 5 README](./README.md)
