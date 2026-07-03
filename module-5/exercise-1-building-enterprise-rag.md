@@ -98,4 +98,4 @@ For bonus points, implement these production-grade optimizations:
     *   A short video recording (WebP/MP4) or a set of screenshots showing the Chainlit UI in action, specifically demonstrating how the RAG model answers queries using context extracted from PDF tables.
 
 ---
-[⬅ Back to Module 4 README](./README.md)
+[⬅ Back to Module 5 README](./README.md)

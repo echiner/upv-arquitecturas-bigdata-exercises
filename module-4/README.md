@@ -4,8 +4,7 @@ This module explores cloud service models, cloud-native storage/compute, serverl
 
 ## Exercises
 
-*   [**Exercise 1: Building Enterprise Retrieval-Augmented Generation (RAG)**](./exercise-1-building-enterprise-rag.md)
-    *   Construct a production-grade RAG pipeline using Marker, Chonkie, Qdrant, and Chainlit, with optional steps for LiteLLM, hybrid search, and Langfuse observability.
+*None yet. Exercises will be added here as the course progresses.
 
 ---
 [⬅ Back to Home](../README.md)
